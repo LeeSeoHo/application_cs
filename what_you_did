@@ -8,5 +8,7 @@
   
 <Hong Seok Jun>
 2018.08.09 aws ec2서버에 mysql올리기, db기초 개념 공부
+           aws ec2 서버 주소 : ubuntu@ec2-13-125-246-136.ap-northeast-2.compute.amazonaws.com
+           phpadmin주소 : http://13.125.246.136/phpmyadmin
 
 <Jeon Hye Sun>
